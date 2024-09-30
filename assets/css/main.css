@@ -2985,3 +2985,7 @@ section,
     color: #000000 !important;
   }
 }
+
+.call-to-action p {
+  color: white !important;
+}
