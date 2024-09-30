@@ -2979,4 +2979,9 @@ section,
   font-size: 36px;
   color: #2d2c2c;
 }
+
+@media (max-width: 780px) {
+  p {
+    color: #000000 !important;
+  }
 }
